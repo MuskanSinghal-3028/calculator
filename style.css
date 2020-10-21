@@ -1,0 +1,46 @@
+#d1{
+    height:75vh;
+    width:40vw;
+/*     border:1px solid black; */
+        background-color:lightgrey;
+padding:5px;
+    position:relative;
+    top:15vh;
+    left:30vw;
+}
+#d2{
+    width:100%;
+    height:15%;
+    background-color:black;
+    margin-top:20px;
+}
+#heading{
+    color:white;
+    text-align:center;
+padding:8px;
+    
+}
+#d3{
+    height:20%;
+    width:100%;
+    background-color:white;
+    margin-top:20px;
+}
+#d4{
+/*     border:1px solid black; */
+    margin-top:20px;
+}
+button{
+    border:0px;
+    background-color:white;
+    font-weight:bold;
+/*     outline:none; */
+}
+button:hover{
+        background-color:orange;
+
+}
+.redbg{
+    background-color:red;
+    color:white;
+}
